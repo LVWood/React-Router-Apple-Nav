@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.header-bar {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  align-items: center;
+  padding: 20px;
+}
+
+.main-nav {
+  margin: 1rem;
+  color: whitesmoke;
+  text-decoration: none;
+}
